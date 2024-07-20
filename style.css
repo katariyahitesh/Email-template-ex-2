@@ -1,0 +1,245 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing:border-box;
+}
+.logo{
+    text-align: center;
+    margin-top: 20px;
+    background-color: rgb(250, 242, 250);
+}
+.hero{
+     max-width: 600px;   
+     width: 100%;
+     margin: 0 auto;
+     text-align: center;
+     background-color: rgb(235, 199, 235);
+
+}
+.title{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.heroContainer{
+    height: 360px; ;
+    max-width:504px ;
+    width: 100%;
+   background-image: url("img1.jpg");
+   background-size: cover;
+   background-position: center;
+
+}
+.Text{
+    max-width:504px ;
+    width: 100%;
+}
+.button{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+.buttoncolor{
+    background-color: rgb(186, 250, 250);
+}
+/* fream */
+.fream{
+    max-width: 600px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: rgb(235, 199, 235);
+}
+.section_1{
+    max-width: 600px;
+    width: 100%;
+}
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.innercard_1,.innercard_2{
+    max-width: 284px;
+    width: 100%;
+    margin-bottom: px;
+
+}
+.frame1{
+    max-width: 252px;
+    width: 100%;
+    margin-top: 23px;
+}
+.img_01{
+    height: 252px;
+    max-width: 252px;
+    width: 100%;
+    background-image: url("img2.png");
+    background-position: center;
+    background-size: cover;
+}
+.img_02{
+    height: 252px;
+    max-width: 252px;
+    width: 100%;
+    background-image: url("img3.jpg");
+    background-position: center;
+    background-size: cover;
+}
+pre{
+    text-align: center;
+    max-width: 252px;
+    width: 100%;
+    margin:0 auto;
+}
+.button_1{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(171, 241, 241);
+}
+/* section_1 */
+.section_1{
+    max-width: 600px;
+    width: 100%;
+    margin: 0 auto;
+}
+.feame_2{
+    max-width: 552px;
+    width: 100%;
+    margin-top: 10px;
+}
+.img_3{
+    max-width: 552px;
+    width: 100%;
+    height: 268px;
+    background-image: url("img4.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+
+.paregraff{
+    margin-top: 10px; 
+    text-align:left;
+}
+.srcbtn_1{
+    margin-top: 10px;
+    text-align: left;
+}
+.parentline{
+    height: 53px;
+    max-width: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.line{
+    height: 53px;
+    max-width: 792px;
+    width: 100%;
+    background-color: rgb(87, 83, 114);
+}
+/* section_2 */
+
+.fream{
+    max-width: 600px;
+    width: 100%;
+    margin: 0 auto;
+}
+.section_1{
+    max-width: 600px;
+    width: 100%;
+}
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.innercard_1,.innercard_2{
+    max-width: 284px;
+    width: 100%;
+    margin-bottom: px;
+
+}
+.frame1{
+    max-width: 252px;
+    width: 100%;
+    margin-top: 23px;
+}
+.img_01{
+    height: 252px;
+    max-width: 252px;
+    width: 100%;
+    background-image: url("img5.png");
+    background-position: center;
+    background-size: cover;
+}
+.img_02{
+    height: 252px;
+    max-width: 252px;
+    width: 100%;
+    background-image: url("img6.png");
+    background-position: center;
+    background-size: cover;
+}
+pre{
+    text-align: center;
+    max-width: 252px;
+    width: 100%;
+    margin:0 auto;
+}
+.button_1{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(172, 241, 241);
+}
+.text_2{
+    max-width:599px ;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.peragraff_1{
+    display: flex;
+    justify-content: center;
+}
+.line_1{
+    height: 2px;
+    max-width: 1037px;
+    width: 100%;
+    border: 1px solid black;
+}
+.footer{
+    max-width: 544px;   
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+ }
+ .footercontent{
+ 
+    width: 100%;
+ }
+ .info{
+   
+    width: 100%;
+    
+ }
+ .infoContainer{
+    margin-top: 20px;
+    max-width: 600px;
+    width: 100%;
+ }
+ .Paregraf{
+    max-width: 100%;
+    width: 100%;
+    text-align: center;
+ }
+ .socialContainer{
+    max-width:  600px ;
+    width: 100%;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-evenly;
+ }
